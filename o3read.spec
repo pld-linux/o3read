@@ -1,5 +1,5 @@
 Summary:	OpenOffice.org document to HTML converter
-Summary(pl):	Konwerter dokumentów OpenOffice.org do HTML-a
+Summary(pl.UTF-8):   Konwerter dokumentÃ³w OpenOffice.org do HTML-a
 Name:		o3read
 Version:	0.0.4
 Release:	1
@@ -15,10 +15,10 @@ This is a standalone converter for the OpenOffice.org swriter (.sxw)
 and scalc (.sxc) formats. It doesn't depend on Open Office or any
 other external tools or libraries.
 
-%description -l pl
-Wolnostoj±cy konwerter dokumentów swritera (.sxw) oraz scalca (.sxc)
-OpenOffice.org. Nie zale¿y od Open Office ani ¿adnych innych
-zewnêtrznych narzêdzi czy bibliotek.
+%description -l pl.UTF-8
+WolnostojÄ…cy konwerter dokumentÃ³w swritera (.sxw) oraz scalca (.sxc)
+OpenOffice.org. Nie zaleÅ¼y od Open Office ani Å¼adnych innych
+zewnÄ™trznych narzÄ™dzi czy bibliotek.
 
 %prep
 %setup -q
