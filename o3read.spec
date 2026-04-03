@@ -2,7 +2,7 @@ Summary:	OpenOffice.org document to HTML converter
 Summary(pl.UTF-8):	Konwerter dokumentów OpenOffice.org do HTML-a
 Name:		o3read
 Version:	0.0.4
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/Text
 Source0:	http://siag.nu/pub/o3read/%{name}-%{version}.tar.gz
